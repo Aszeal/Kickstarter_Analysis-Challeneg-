@@ -14,7 +14,7 @@ https://github.com/Aszeal/Kickstarter_Analysis-Challenge-/blob/main/Resources/Ou
 ### Challenges and Difficulties Encountered
 In this case, the difficulties I faced was making sure the data was sifted correctly and categorized with the correct filters. Another difficulty was making sure my formulas were outputting the correct information. Lastly, one possible difficulty that I could have encountered would have been using incorrect data from the source. In other words, if the data that was given was incorrect from the start, then all the visualizations and report(s) would be wrong.
 ## Results
-- I can conclude two things about "Outcomes based on Launch Date." First, the most successful launch dates were conducted during the summer time. There could hundreds of reasons why. One inference I could make is that individuals during the summer might have more free time. The conclusion I could make is that overall, there were more success than failures.
+- I can conclude two things about "Outcomes based on Launch Date." First, the most successful launch dates were conducted during the summer time. There could be hundreds of reasons why. One inference I could make is that individuals during the summer might have more free time. The conclusion I could make is that overall, there were more success than failures.
 - One important conclusion I can make about "Outcomes based on Goals" is that the pledges made $20,000 or less were the most successful. There could many reasons why they were successful. I believe one could have been attributed to incomes level, demographically.
 - There are a few limitations of this dataset such as:
 1.	Self-reported data (Is the information correct) may or may not be accurate.
