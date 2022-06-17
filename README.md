@@ -16,7 +16,7 @@ With undergoing any new challenges, there will be difficulties. In this case, th
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+I can conclude two things about "Outcomes based on Launch Date." First, the most successful launch dates were conducted during the summer times. There could hundred of reason why. One inference I could make is that individuals during the summer might have more free time. The final conclusion I could make is that overall, there were more success than failures. 
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
