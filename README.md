@@ -1,8 +1,8 @@
 ## Overview of Project
-The overview of the project was to analyze the "Kick Starter" data and formulate a conconlusion based off the analytics using visualizations and a report. The project is focused on showcasing my ability to analyze the date, organize it, and make it clear for the reader to understand. 
+The overview of the project was to analyze the "Kick Starter" data and formulate a conconlusion based off of the analytics using visualizations and a report. The project is focused on showcasing my ability to analyze the date, organize it, and make it clear for the reader to understand. 
 
 ## Purpose of the Project 
-The purpose of the project was to analyze the "Kick Starter" data and formulate a conclusion based of the analytics. In this case, I was directed to analysis data in comparison to Louise’s' play, Fever. Louise wanted to know how his play did in comparison to others. His play almost met the fundraising goal.
+The purpose of the project was to analyze the "Kick Starter" data and formulate a conclusion based off of the analytics. In this case, I was directed to analysis data in comparison to Louise’s' play, Fever. Louise wanted to know how his play did in comparison to others. His play almost met the fundraising goal.
 
 
 ## Analysis and Challenges
