@@ -20,4 +20,4 @@ In this case, the difficulties I faced was making sure the data was sifted corre
 1.	Self-reported data (Is the information correct) may or may not be accurate.
 2.	Missing data (It looked there could have been missing information from the data set).
 3.	Limited access to date. There could have been more sufficient data out there that could have made the data visualization more beneficial but was not acquired.
-- For there this data I could have utilized pie charts or bar graphs. I would like to have utilized pie charts to help visualize the disparity between successful outcomes of launch dates.
+- For there this data I could have utilized pie charts or bar graphs. I would like to have utilized pie charts to help visualize the disparity between successful outcomes of launch dates. Bar graphs would help visualize the " Outcomes Based on Goals." 
