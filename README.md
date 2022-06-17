@@ -8,7 +8,7 @@ The purpose of the project was to analyze the "Kick Starter" data and formulate 
 ## Analysis and Challenges##
 
 ### Analysis of Outcomes Based on Launch Date
-
+![]https://github.com/Aszeal/Kickstarter_Analysis-Challenge-/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Goals
 ![]https://github.com/Aszeal/Kickstarter_Analysis-Challenge-/blob/main/Resources/Outcomes_vs_Goals.png
 ### Challenges and Difficulties Encountered
