@@ -8,8 +8,10 @@ The overview of the project was to analyze the "Kick Starter" data and formulate
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Based on Theater Launch Date Worksheet](Resources/Theater_Outcomes_vs_Launch.png)
 https://github.com/Aszeal/Kickstarter_Analysis-Challenge-/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Goals
+![Outcomes Based on Goals Worksheet](Resources/Outcomes_vs_Goals.png)
 https://github.com/Aszeal/Kickstarter_Analysis-Challenge-/blob/main/Resources/Outcomes_vs_Goals.png
 ### Challenges and Difficulties Encountered
 In this case, the difficulties I faced was making sure the data was sifted correctly and categorized with the correct filters. Another difficulty was making sure my formulas were outputting the correct information. Lastly, one possible difficulty that I could have encountered would have been using incorrect data from the source. In other words, if the data that was given was incorrect from the start, then all the visualizations and report(s) would be wrong.
